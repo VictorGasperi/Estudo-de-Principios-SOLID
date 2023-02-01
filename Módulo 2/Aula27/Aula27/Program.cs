@@ -1,12 +1,14 @@
 ﻿namespace Aula27
 {
-    //Aula sobre herancas
+    /// <summary>
+    /// Aula sobre Heranca
+    /// </summary>
 
     class Program
     {
         static void Main(string[] args)
         {
-
+            ContaPoupanca cp = new ();
         }
     }
 }
