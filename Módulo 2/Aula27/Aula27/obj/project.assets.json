@@ -9,27 +9,24 @@
   },
   "packageFolders": {
     "C:\\Users\\victo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Repositorios Git\\Estudo-de-Principios-SOLID\\Módulo 2\\Aula27\\Aula27\\Aula27.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\Repositórios Git\\Estudo-de-Principios-SOLID\\Módulo 2\\Aula27\\Aula27\\Aula27.csproj",
       "projectName": "Aula27",
-      "projectPath": "D:\\Repositorios Git\\Estudo-de-Principios-SOLID\\Módulo 2\\Aula27\\Aula27\\Aula27.csproj",
+      "projectPath": "C:\\Users\\victo\\Documents\\Repositórios Git\\Estudo-de-Principios-SOLID\\Módulo 2\\Aula27\\Aula27\\Aula27.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "D:\\Repositorios Git\\Estudo-de-Principios-SOLID\\Módulo 2\\Aula27\\Aula27\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\Repositórios Git\\Estudo-de-Principios-SOLID\\Módulo 2\\Aula27\\Aula27\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
